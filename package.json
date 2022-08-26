@@ -1,0 +1,17 @@
+{
+  "name": "calificable",
+  "version": "1.0.0",
+  "main": "Index.js",
+  "scripts": {
+    "start": "nodemon Index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "description": ""
+}
