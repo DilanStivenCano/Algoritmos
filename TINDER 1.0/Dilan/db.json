@@ -1,0 +1,30 @@
+{
+    "cards": [
+        {
+            "photo" : "./fotos/eladio.jpg",
+            "name" : "Eladio Carrión, 23",
+            "city" : "Humacao, Puerto Rico",
+            "description": "El cantante puertorriqueño y gran exponente del trap latino prefiere mostrarse como un libro abierto con sus seguidores, a los que ofrece letras sinceras.",
+            "like": "./fotos/like.webp" ,
+            "dislike": "./fotos/dislike.png"
+        },
+
+       {
+            "photo" : "./fotos/alex.webp",
+            "name" : "Alex Morgan, 33 ",
+            "city" : "California, Estados Unidos",
+            "description": "Es una futbolista profesional y escritora estadounidense. Juega como delantera en el San Diego Wave de la National Women's Soccer League, y en la selección desde 2019.",
+            "like": "./fotos/like.webp" ,
+            "dislike": "./fotos/dislike.png"
+        },
+
+        {
+            "photo" : "./fotos/feid.jpg",
+            "name" : "Salomon Villada, 25",
+            "city" : "Medellin, Colombia",
+            "description": "Conocido artísticamente cómo Feid o Ferxxo es un cantante y productor musical colombiano.​​ Durante su trayectoria musical ha trabajado con varios artistas​.",
+            "like": "./fotos/like.webp" ,
+            "dislike": "./fotos/dislike.png"
+        }
+    ]
+}

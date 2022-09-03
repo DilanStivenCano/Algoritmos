@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+	padding: 30px;
+    height: 95vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	background-color: rgba(255, 228, 228, 0.438);
+}
+
+.body-cards {
+	display: flex;
+    justify-content: center;
+    align-items: start;
+	width: 90%;
+}
+
+.logo-cards figure{
+	display: flex;
+	justify-content: center;
+}
+
+.logo-cards img{
+	width: 245px;
+	height: auto;
+}

@@ -1,0 +1,23 @@
+
+.button img {
+	width: 50px;
+	height: auto;
+}
+
+.button {
+	border: transparent;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	margin: 0 5px;
+	padding: 10px;
+	width: 80px;
+	height: 80px;
+	background-color: transparent;
+	border-radius: 50px;
+}
+
+.button:hover {
+	background-color: rgba(213, 213, 213, 0.775);
+}
